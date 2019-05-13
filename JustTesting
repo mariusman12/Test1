@@ -1,0 +1,16 @@
+using System;
+
+namespace PrimaAplicatieMan
+{
+    class MainClass
+    {
+      
+        public static void Main(string[] args)
+        {
+            Console.WriteLine("Hi GitHub");
+            Console.WriteLine("Hi C#");
+
+        }
+
+    }
+}
